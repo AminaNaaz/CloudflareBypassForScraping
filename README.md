@@ -24,6 +24,8 @@ You can install the required packages by running the following command:
 pip install -r requirements.txt
 ```
 
+#Amina Naaz
+
 ## Demo
 ![](https://cdn.sarperavci.com/xWhiMOmD/vzJylR.gif)
 
